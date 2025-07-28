@@ -1,4 +1,4 @@
-[PYTHON] HEALTH AND FITNESS TRACKER
+[PYTHON TKINTER] HEALTH AND FITNESS TRACKER
 Introduction
 The program ‘Health and Fitness Tracker’ is an application that allows the user to create a physical activity log, track their calorie and nutritional intake, create fitness goals. The user can create an account, logs in to access their own fitness tracker. There are four functions in the application that the can user and a log out function for the user to log out.
 
