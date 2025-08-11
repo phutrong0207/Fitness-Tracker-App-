@@ -1,6 +1,8 @@
 [PYTHON TKINTER] HEALTH AND FITNESS TRACKER
 Introduction
 The program ‘Health and Fitness Tracker’ is an application that allows the user to create a physical activity log, track their calorie and nutritional intake, create fitness goals. The user can create an account, logs in to access their own fitness tracker. There are four functions in the application that the can user and a log out function for the user to log out.
+How to run the code:
+Copy all the files in the github repository and put it in a folder and run the code
 
 This is the login interface of the app when you run the code
 <img width="924" height="525" alt="image" src="https://github.com/user-attachments/assets/ef76257f-6893-4d3d-8fbd-549becc3e55d" />
